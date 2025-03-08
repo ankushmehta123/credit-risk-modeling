@@ -7,10 +7,10 @@ This project implements a Credit Risk Modeling system to classify applicants int
 ## Dataset
 
 The project utilizes two datasets:
-- **internal.xlsx**:Contains information about the applicant's trade lines, loan accounts, and payment history.
-- **cibil.xlsx**:Contains details of the applicant's delinquency records, credit score, and loan inquiries.
+1. **internal.xlsx**:Contains information about the applicant's trade lines, loan accounts, and payment history.
+2. **cibil.xlsx**:Contains details of the applicant's delinquency records, credit score, and loan inquiries.
 
-  <b>Target Column</b>: Approved_Flag (Priority Levels)
+  **Target Column**: Approved_Flag (Priority Levels)
 
 ---
 
