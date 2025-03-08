@@ -7,8 +7,23 @@ This project implements a Credit Risk Modeling system to classify applicants int
 ## Dataset
 
 The project utilizes two datasets:
+
 1. **internal.xlsx**:Contains information about the applicant's trade lines, loan accounts, and payment history.
 
 2. **cibil.xlsx**:Contains details of the applicant's delinquency records, credit score, and loan inquiries.
 
-<b>Target Column</b>: Approved_Flag (Priority Levels)
+  <b>Target Column</b>: Approved_Flag (Priority Levels)
+
+---
+
+## Model Training
+
+Used three classification models:
+
+1. **Random Forest Classifier**
+1. **XGBoost Classifier (Best Performing Model)**
+1. **Decision Tree Classifier**
+
+
+
+
