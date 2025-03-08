@@ -22,6 +22,11 @@ Used three classification models:
 1. **XGBoost Classifier (Best Performing Model)**
 1. **Decision Tree Classifier**
 
+---
 
+## Output
 
+Used three classification models:
+
+The model outputs a classified priority level **(Approved_Flag)** for each applicant in **final_predictions.xlsx.**
 
