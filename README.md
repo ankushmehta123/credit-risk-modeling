@@ -26,7 +26,5 @@ Used three classification models:
 
 ## Output
 
-Used three classification models:
-
 The model outputs a classified priority level **(Approved_Flag)** for each applicant in **final_predictions.xlsx.**
 
